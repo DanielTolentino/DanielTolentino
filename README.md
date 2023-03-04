@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Tolentino</h1>
 <h3 align="center">Sou apaixonado por tecnologia, Linux e o mundo Open Source!</h3>
 
-- 📫 How to reach me **danieltolentino@pm.me**
+- 📫 How to reach me **danieltolentinofs@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
